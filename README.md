@@ -1,5 +1,15 @@
 # GDI - Internal Demand Management System
 
+## Screenshots
+
+### Login
+
+![Login](docs/login.png)
+
+### Dashboard
+
+![Dashboard](docs/dashboard.png)
+
 GDI is a Java web application for managing internal demands across teams and departments. It centralizes requests, tracks ownership and status, keeps the conversation history attached to each demand, and provides operational dashboard exports.
 
 ## Stack
