@@ -1,0 +1,18 @@
+# Maven / Java
+target/
+*.class
+*.war
+*.ear
+*.jar
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+Servers2/
+bin/
+
+# OS / editor
+.DS_Store
+Thumbs.db
